@@ -91,5 +91,5 @@ If you have any questions or concerns about this privacy policy, please contact 
 
 ## Effective Date
 
-This privacy policy is effective as of [Effective Date].
+This privacy policy is effective as of 26th March 2023.
 
