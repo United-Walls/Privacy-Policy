@@ -14,6 +14,7 @@ The following privacy policy is intended to inform you in particular about the t
 The party responsible for this service for purposes of data protection law is:
 
 Paras Mohandas Khanchandani Chandani
+
 Email: paraskhanchandani1315@gmail.com
 
 ## II. The rights of users and data subjects
