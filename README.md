@@ -70,6 +70,12 @@ You can review Telegram’s Privacy Policy here - [https://telegram.org/privacy]
 
 The basis for this procedure is Art. 6 Para. 1 lit. f) GDPR. My legitimate interest lies in the [...], functionality, and security of my Service. 
 
+### Data Collection
+I collect App-Usage-Data (how many times a Wallpaper got marked as favorite and how many times a Wallpaper gets downloaded). This Data I'm collecting is NOT bound directly to a specific user in any way.
+
+### Sharing with third parties
+I do NOT share any data with third parties.
+
 
 ## IV. Security of your personal Data
 
@@ -92,5 +98,5 @@ If you have any questions or concerns about this privacy policy, please contact 
 
 ## Effective Date
 
-This privacy policy is effective as of 26th March 2023.
+This privacy policy is effective as of 25th April 2023.
 
